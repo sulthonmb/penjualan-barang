@@ -198,15 +198,13 @@
 						<table>
 							<tr>
 								<td>
-									PT.Aplikasi Penjualan Barang<br />
-									Jalan Desa Sakertabarat,<br />
-									Kec. Darma, Kab. Kuningan 45562
+									PT Jual Apa Aja<br />
+									Jalan Maju, Desa Maju<br />
+									Kec. Maju, Kab. Maju 45562
 								</td>
 
 								<td>
-									Ziwana Rizwan Pramudia<br />
-									0838-2494-0930<br />
-									ziwanarizwan@gmail.com
+									Binus<br />
 								</td>
 							</tr>
 						</table>

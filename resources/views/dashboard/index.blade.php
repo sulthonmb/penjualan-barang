@@ -16,25 +16,7 @@
             <h4 class="card-title">Aplikasi Penjualan Barang</h4>
         </div>
         <div class="card-body">
-            Aplikasi Penjualan Barang adalah aplikasi yang dibuat oleh <strong><a href="https://instagram.com/ziwanarp" target=_blank>Ziwana Rizwan Pramudia .</a></strong> <br>
-            Teknologi yang digunakan dalam aplikasi ini adalah: <br>
-            <ol>
-                <li>Farmework <a href="https://laravel.com/" target=_blank>Laravel 9.</a></li>
-                <li>Ajax jQuery.</li>
-                <li>Template Admin <a href="https://github.com/zuramai/mazer" target=_blank>Mazer.</a></li>
-                <li>DBMS MySQL.</li>
-                <li><a href="https://github.com/barryvdh/laravel-dompdf" target=_blank>Laravel DOMPDF.</a></li>
-                <li>Library <a href="https://github.com/itsgoingd/clockwork" target=_blank>ClockWork.</a></li>
-            </ol>
-            <strong> Fitur Aplikasi ini adalah : </strong><br>
-            <ol>
-                <li>Crud User (untuk Admin)</li>
-                <li>Crud Barang (untuk Admin)</li>
-                <li>Penjualan Barang</li>
-                <li>Laporan Penjualan Barang</li>
-                <li>Cetak Laporan Penjualan Barang (PDF)</li>
-                <li>Import/Export data barang (Excell)</li>
-            </ol>
+            
         </div>
     </div>
 </section>
